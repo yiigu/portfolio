@@ -10,4 +10,6 @@ I would like to learn how to manage data more efficiently with the help of visua
 
 # Portfolio
 [Government Debt Visualization](/dataviz2.md)
+Here is my visualization of government debt around the world in 2019. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5296524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
