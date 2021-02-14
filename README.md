@@ -15,3 +15,9 @@ I would like to learn how to manage data more efficiently with the help of visua
 Here is my visualization of government debt around the world from 1985 to 2019. If you are interested in the data, feel free to go to the source page for more questions.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+I tried another chart type, called column chart to create another visualization, which is presented as follows:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5296645"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
