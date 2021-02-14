@@ -25,3 +25,5 @@ I tried another chart type, called column chart to create another visualization,
 These three visualizations use the same data but with differnent focus on the idea they try to convey. The first chart generated from OECD data website describes the general government debt for the countries around the world in 2019 only. It is simple and clear to check the debt for each present country, and compare one with another about the debt to GDP ratio. However, we have no idea about the debt to GDP ratio trends of each country for some year. This is presented by the grid line of line charts. With this advantage, the second graph cannot provide convenience when comparing debt ratio of one country with one of another country. 
 
 Why I choose column chart is that line charts are often used to display data or information that changes continuously over time, while column chars provide a visual display for comparing quantities in different years for each country. We can still observe the trends through column charts with emphasizing the difference between debt ratio for different year.
+
+# Final Project
