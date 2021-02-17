@@ -6,7 +6,6 @@ I want to find out how depression influence peoples' thoughts about life, and wh
 ## Project Structure
 - How many people choose to suicide in China from 2000?
 - Does gender impact the suicide rates?
-- Is age related to suicide?
 - What method does they choose to suicide?
 - Why do they choose to suicide?
 - Is crisis related?
