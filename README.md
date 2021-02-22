@@ -28,8 +28,12 @@ Why I choose column chart is that line charts are often used to display data or 
 
 # Assignment 3&4
 
-1. Link: https://www.childtrends.org/indicators/young-adult-depression I selecct this data visualization is because I am interested in the topics of young adults depression. This graph seems easy to capture the idea, but it involves in a lot of confusion about it. I want to give myself a shot to resign a simple graph in a more clear way.
+1. Link: https://www.childtrends.org/indicators/young-adult-depression 
+
+I selecct this data visualization is because I am interested in the topics of young adults depression. This graph seems easy to capture the idea, but it involves in a lot of confusion about it. I want to give myself a shot to resign a simple graph in a more clear way.
+
 2. My process was
+
   (1) I looked at the visual graph to take notes about what first came to me from the graph.
     a. two dashed lines
     b. some random numbers
