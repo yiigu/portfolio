@@ -41,7 +41,8 @@ Why I choose column chart is that line charts are often used to display data or 
   
   (4) I would definitely change the title to "More young people are suffering from depression" to emphasize the trends. Secondly, I will change the proportion unit of y-axis. As there is no data above 10%, there is no need to include the steps above 10%. I also want to change the line type to solid line.
   
-Here I attached my ![wireframes](Untitled Notebook (1)-2.jpg).
+Here I attached my wireframes.
+![wireframes](Untitled Notebook (1)-2.jpg).
   (1) I changed the range of the y-axis and add a summary to the graph to emphasize the increasing number of depressed young adults.  
   (2) I found the last visulization is too colorful, therefore I changed some colors, including title, line.
   (3) I got some feedback:
@@ -56,7 +57,7 @@ I tried different types of charts, such as pie chart, bar chart, but they cannot
 <script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 766px;'><object class='tableauViz' width='1440' height='766' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;yigu' /><param name='name' value='Depressiontrends&#47;Sheet2&#47;yig2@andrew.cmu.edu&#47;fe0e55bb-1dc7-43f1-b800-e0080c71f07b' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 # Final Project
