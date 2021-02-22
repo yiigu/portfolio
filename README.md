@@ -61,8 +61,8 @@ Here I attached my wireframes.
 I tried different types of charts, such as pie chart, bar chart, but they cannot show the trends of the data. All I want is to make the increasing trend stand out. 
 
 
-3. Here is my data visalization:
-https://prod-useast-b.online.tableau.com/t/yigu/views/Depressiontrends/Sheet2?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+3. Here is my [data visalization](
+https://prod-useast-b.online.tableau.com/t/yigu/views/Depressiontrends/Sheet2?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 
 
