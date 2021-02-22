@@ -42,10 +42,14 @@ Why I choose column chart is that line charts are often used to display data or 
   (4) I would definitely change the title to "More young people are suffering from depression" to emphasize the trends. Secondly, I will change the proportion unit of y-axis. As there is no data above 10%, there is no need to include the steps above 10%. I also want to change the line type to solid line.
   
 Here I attached my wireframes.
-![wireframes](Untitled Notebook (1)-2.jpg).
+![wireframes](Untitled Notebook (1)-2.jpg)
+
   (1) I changed the range of the y-axis and add a summary to the graph to emphasize the increasing number of depressed young adults.  
+  
   (2) I found the last visulization is too colorful, therefore I changed some colors, including title, line.
+  
   (3) I got some feedback:
+  
     - They were confused about the two lines: is there any comparsion between them? -> There is no comparsion between them. I make the blue one stand out, because it presents a more clear increasing trend.
     - The y-axis does not have a name. It says the same thing as the title. -> I seperate the name of the y-axis and the tile.
     - The trends of the data is not obvious. -> I changed the title to "trends" to emphasize the focus.
