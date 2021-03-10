@@ -49,14 +49,9 @@ I am going to use the Shorthand to build the story that I want to tell. First, I
 
 | Question                                                  | Findings           | Changes |
 | -------------                                             |-------------   | -----|
-| Do you know this information before reading this?         | The interviewers did not that Chinese suicide rates are that high. One of them mentioned that the suicide rate in Northern Europe is very high.  | None |
+| Do you know this information before reading this?         | The interviewers did not that Chinese suicide rates are that high. One of them mentioned that the suicide rate in Northern Europe is very high.  | I will change the title of the graph to mention that the research is target at China. |
 | What population group do you think this is intended for?  | The interviewers thought that the target audience was Chinese government     | I might need to change something to emphaize the target population. |
-| What do you think is the purpose of this website?         | The interviewers said that people should pay attention to suicide situation, especially in rutal area.|   i |
-| What did you feel confused?                               | are neat            |    $1 |
-| Is there anything that you want to know about his topic?  | are neat      |    $1 |
-
-- 北欧自杀率很高，===》 change to chinese
-- 目的：做社会研究
-- 单纯的只有数据，折线图过于简单
-每一百个人有一个人要自杀
+| What do you think is the purpose of this website?         | The interviewers said that people should pay attention to suicide situation, especially in rutal area.| None|
+| What did you feel confused?                               | The line charts are too simple and they just shows the data, which can't arouse people's attention. | I will add some graphics to show the sad story behind the suicides. |
+| Is there anything that you want to know about his topic?  | Why is the suicide rate decreasing?    | I will add the urbansization percent change to explain the reason. |
 
