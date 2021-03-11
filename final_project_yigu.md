@@ -54,4 +54,3 @@ I am going to use the Shorthand to build the story that I want to tell. First, I
 | What do you think is the purpose of this website?         | The interviewers said that people should pay attention to suicide situation, especially in rutal area.| None|
 | What did you feel confused?                               | The line charts are too simple and they just shows the data, which can't arouse people's attention. | I will add some graphics to show the sad story behind the suicides. |
 | Is there anything that you want to know about his topic?  | Why is the suicide rate decreasing?    | I will add the urbansization percent change to explain the reason. |
-
