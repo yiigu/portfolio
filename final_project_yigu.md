@@ -19,7 +19,6 @@ Suicide is a heavy topic, the number of of which is cold. Care should have tempe
 
 ![sketches](InitialSketches-2.jpg)
 
-
 ## The data
 
 The data that I used for the final project are primarily from [WHO Global Health Observatory data repository](https://apps.who.int/gho/data/view.main.MHSUICIDEv?lang=en) and [Chinese Health Database](http://www.epschinadata.com/data-resource.html) on EPS China Data.
