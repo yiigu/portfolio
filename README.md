@@ -13,4 +13,7 @@ I would like to learn how to manage data more efficiently with the help of visua
 
 ## [Assignment 3&4](/Assignment3&4.md)
 
-## [Final Project](/final_project_yigu.md)
+## [Final Project Part I & II](/final_project_yigu.md)
+
+## [Final Project Part III](/final_project_part3.md)
+
